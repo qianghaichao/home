@@ -1,0 +1,24 @@
+﻿/*
+* @Author: pc
+* @Date:   2017-08-02 09:52:09
+* @Last Modified by:   pc
+* @Last Modified time: 2017-08-10 22:53:56
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑","宋体",sans-seref;
+	box-sizing: border-box;
+}
+body{
+	background: #fff;
+}
+img{
+	border: 0;
+	display: block;
+}
+a{
+	display: block;
+}
